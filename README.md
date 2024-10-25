@@ -67,3 +67,11 @@ const compozer = require('compozer');
 // Deploy the project
 compozer.deploy();
 ```
+
+## About
+
+Compozer is a powerful tool designed to help developers manage and compose their code efficiently. It provides a set of utilities and features that streamline the development process, making it easier to build, test, and deploy applications.
+
+[Project Website](https://github.com/akaday/compozer)
+
+Topics: code management, development tools, build automation, testing, deployment
